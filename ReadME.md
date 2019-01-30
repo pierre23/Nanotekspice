@@ -21,6 +21,7 @@ $ ./nanotekspice [circuitPath].nts [pinName1]=[value] [pinName2]=[value] ...
 ```
 You can create your own circuit by format a .nts like that :
 
+```sh
 .chipsets:
 clock a
 input b
@@ -30,7 +31,7 @@ output s
 a:1 porte:1
 b:1 porte:2
 porte:3 s:1
-
+```
 
 After the .chipset you declare all chipsets you want to use, and after the .links you declare the links between chipset's pins.
 
