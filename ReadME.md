@@ -4,7 +4,7 @@
 
 [![](https://www.hidglobal.com/sites/default/files/chipset.png)]
 
-Nanotekspice is a chipset enmulator. We can use it to test electric circuit.
+Nanotekspice is a chipset emulator. We can use it to test electric circuit.
 
 ### **Tech**
 For this project we've used the following:
