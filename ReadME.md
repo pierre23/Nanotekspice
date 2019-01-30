@@ -19,7 +19,7 @@ $ Make
 $ ./nanotekspice [circuitPath].nts [pinName1]=[value] [pinName2]=[value] ...
 
 ```
-You can create your own circuit by format a .nts like that :
+You can create your own circuit by format a [file].nts like that :
 
 ```sh
 .chipsets:
